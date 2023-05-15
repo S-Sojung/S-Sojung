@@ -2,11 +2,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sojung&show_icons=true&theme=material-palenight)
 
-<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=notion&logoColor=9370DB"/>notion</a>
-<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/>javascript</a>
-<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/>springboot</a>
-<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/>flutter</a>
-<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/>mysql</a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=9370DB"/>notion</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/Javasript-000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/>javascript</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/>springboot</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/>flutter</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/>mysql</a>
 
 <!--
 **S-Sojung/S-Sojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
