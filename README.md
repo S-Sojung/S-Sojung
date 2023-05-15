@@ -1,6 +1,6 @@
 # Hi, I'm Sung So Jung 👋
 This is my study summary note Notion </br>
-<a href="[https://www.notion.so/c1ff33ca442b4f9ea4056a06790085ce?pvs=4]" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=9370DB"/></a>
+<a href="https://www.notion.so/c1ff33ca442b4f9ea4056a06790085ce?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=9370DB"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sojung&show_icons=true&theme=material-palenight)
 
