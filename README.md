@@ -6,7 +6,7 @@ This is my study summary note Notion </br>
 
 
 # My skills
-<img src="https://img.shields.io/badge/Javasript-000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/> </br>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Javasript-000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/> <img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/> </br>
 I've learned a lot other than what's organized above, but I've only posted what I'm currently posting on github. I know more things, and I can learn well.
 
 <!--
