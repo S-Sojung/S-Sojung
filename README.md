@@ -6,10 +6,7 @@ This is my study summary note Notion
 
 
 # My skills
-<img src="https://img.shields.io/badge/Javasript-000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/>
-<img src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/>
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/>
-<img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/>
+<img src="https://img.shields.io/badge/Javasript-000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/><img src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/><img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/><img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/>
 
 <!--
 **S-Sojung/S-Sojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
