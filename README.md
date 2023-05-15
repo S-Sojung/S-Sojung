@@ -1,6 +1,9 @@
 ### Hi, I'm Sung So Jung 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sojung&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sojung&show_icons=true&theme=material-palenight)
+
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=notion&logoColor=9370DB"/></a>
+![notion](https://github.com/S-Sojung/S-Sojung/assets/80329856/94eb70ea-e1bc-4b20-8892-1563ea30b99c)
 
 <!--
 **S-Sojung/S-Sojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
