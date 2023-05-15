@@ -2,8 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sojung&show_icons=true&theme=material-palenight)
 
-<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=notion&logoColor=9370DB"/></a>
-![notion](https://github.com/S-Sojung/S-Sojung/assets/80329856/94eb70ea-e1bc-4b20-8892-1563ea30b99c)
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=notion&logoColor=9370DB"/>notion</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=javascript&logoColor=9370DB"/>javascript</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=springboot&logoColor=9370DB"/>springboot</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=flutter&logoColor=9370DB"/>flutter</a>
+<a href="https://github.com/S-Sojung" target="_blank"><img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=mysql&logoColor=9370DB"/>mysql</a>
 
 <!--
 **S-Sojung/S-Sojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
